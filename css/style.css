@@ -614,6 +614,9 @@ li {
     .header {
         padding:1rem 0;
     }
+    .search-bar--form {
+        gap:1rem;
+    }
 }
 
 @media (max-width: 420px) {
